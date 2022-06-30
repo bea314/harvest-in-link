@@ -132,7 +132,11 @@ WIP
 WIP
 
 ## Conclusion
-WIP
+Dividing the product into modules gave wonderful results. Although this measurement was born as a necessity, so that developers could design sections from each other. Also, to being able to separate the power stage using two separate modules. This allowed us to reduce the cost of products and will allow users to choose the product only according to their needs.
+
+The designs turned out promising. However, there is always room for improvements.
+An important improvement is to use only esp32 or to exchange drivers between modules. This arises because the designer of module A did not have an esp32 available in his local market, but rather an esp8266. The disadvantage of using an esp8266 is its lack of automatic inputs, since it only has one, unlike the esp32 which has 3. This limits the ability to read digital variables per module, reduces the capacity of module 1.
+Finally, it can be concluded that the equipment can improve in terms of mechanical design: savings in plastic material / reduction in casing material and increase in the IP protection level of each system. As far as electronic design is concerned, modules pre-made by outside companies can be converted and the power supply system can be optimized. These two points can reduce the size of the device and allow for a more durable design.
 
 ## References
 Youtube.com. 2022. Blynk Home Automation with Multiple ESP8266 Boards. [online] Available at: <https://www.youtube.com/watch?v=CT9PotokFbo> [Accessed 1 May 2022].
