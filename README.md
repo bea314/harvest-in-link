@@ -129,7 +129,7 @@ WIP
 WIP
 
 ### BOM
-WIP
+![Lista de precios_page-0001](https://user-images.githubusercontent.com/60575708/176986845-118df55b-72bd-4198-b078-4525a56e2b86.jpg)
 
 ## Conclusion
 Dividing the product into modules gave wonderful results. Although this measurement was born as a necessity, so that developers could design sections from each other. Also, to being able to separate the power stage using two separate modules. This allowed us to reduce the cost of products and will allow users to choose the product only according to their needs.
